@@ -13,15 +13,15 @@ Instructions.txt contains the neccessary instructions for the first HTML/CSS cha
 Below is a list of coding challenges that increase in difficulty. Please finish as many as you are able to complete.
 When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
 
-* [Name] - http://jsfiddle.net/U3ezV/693/ - SOLUTION-URL
-* [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
-* [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
-* [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
-* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
-* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
-* [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
+* [Name] - http://jsfiddle.net/U3ezV/ - http://jsfiddle.net/U3ezV/701/
+* [Food] - http://jsfiddle.net/85Lp6mba/ - http://jsfiddle.net/85Lp6mba/380/
+* [Double] - http://jsfiddle.net/hu85B/ - http://jsfiddle.net/hu85B/614/
+* [Addition] - http://jsfiddle.net/M8pZf/ - http://jsfiddle.net/M8pZf/398/
+* [First] - http://jsfiddle.net/zsFvE/ - http://jsfiddle.net/zsFvE/494/
+* [Last] -  http://jsfiddle.net/rLes9kdb/ - http://jsfiddle.net/rLes9kdb/147/
+* [Loop] - http://jsfiddle.net/YM7th/ - http://jsfiddle.net/YM7th/384/
+* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - http://jsfiddle.net/4zfcz/350/
+* [me] - http://jsfiddle.net/5Ua3r/ - http://jsfiddle.net/5Ua3r/305/
+* [favoriteThings] - http://jsfiddle.net/zCcnT/ - http://jsfiddle.net/zCcnT/351/
+* [firstLoop] - http://jsfiddle.net/Lgf3G/ - http://jsfiddle.net/Lgf3G/375/
+* [userObj] - http://jsfiddle.net/VkvMV/ - http://jsfiddle.net/VkvMV/359/
